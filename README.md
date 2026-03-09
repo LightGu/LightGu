@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
-<h3 align="center">An Information Systems student</h3>
+<h3 align="center">An Information Systems student at the university Inteli</h3>
 
 - 🌱 I’m currently learning **JavaScript, Shell Script and French**
 
